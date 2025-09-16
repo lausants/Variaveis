@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Variaveis.csproj", "{F9B4865D-D65A-4BBA-A123-A23CE86DC326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertendoValores", "..\..\ConvertendoValores\ConvertendoValores.csproj", "{4954BBFB-A170-4446-A3C5-EC9A33E3A438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade01", "..\..\Atividade01\Atividade01.csproj", "{1828BFC1-6CE4-4688-84C2-F03D78E90234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F9B4865D-D65A-4BBA-A123-A23CE86DC326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9B4865D-D65A-4BBA-A123-A23CE86DC326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9B4865D-D65A-4BBA-A123-A23CE86DC326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4954BBFB-A170-4446-A3C5-EC9A33E3A438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4954BBFB-A170-4446-A3C5-EC9A33E3A438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4954BBFB-A170-4446-A3C5-EC9A33E3A438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4954BBFB-A170-4446-A3C5-EC9A33E3A438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1828BFC1-6CE4-4688-84C2-F03D78E90234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1828BFC1-6CE4-4688-84C2-F03D78E90234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1828BFC1-6CE4-4688-84C2-F03D78E90234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1828BFC1-6CE4-4688-84C2-F03D78E90234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
